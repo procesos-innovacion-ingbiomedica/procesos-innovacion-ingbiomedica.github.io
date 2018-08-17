@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Taller de Proyecto 01 - UPCH 
 ---
 # Página oficial del curso de Taller de Proyecto 01
 Este taller introduce al estudiante al desarrollo de proyectos en el campo de la ingeniería biomédica a través del diseño y fabricación de dispositivos que atienden una necesidad médica.
