@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 title: Taller de Proyectos 01 | Cómo Desarrollar Servicios y Productos Disruptivos
 description: Ingeniería Biomédica PUCP-UPCH
 show_downloads: true
