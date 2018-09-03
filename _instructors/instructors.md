@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+layout: default
 ---
 # Página oficial de los cursos de Taller de Proyectos 01 y Cómo Desarrollar Servicios y Productos Disruptivos
 Estos cursos introducen al estudiante en el proceso de implementación de proyectos, como al desarrollo de productos y servicios en el campo de la ingeniería biomédica a través del diseño y fabricación de dispositivos que atienden una necesidad médica.
