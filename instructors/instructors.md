@@ -2,7 +2,7 @@
 layout: instructor
 ---
 ## Coordinador General - Cómo Desarrollar Servicios y Productos Disruptivos
-![image](./instructors/luis_pena.jpg){:height="140px" width="140px"}
+![Alt text](./instructors/luis_pena.jpg){:height="140px" width="140px"}
 
 *Luis Peña*
 
