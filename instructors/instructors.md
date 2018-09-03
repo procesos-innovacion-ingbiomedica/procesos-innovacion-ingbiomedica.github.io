@@ -2,6 +2,8 @@
 layout: instructor
 ---
 ## Coordinador General - Cómo Desarrollar Servicios y Productos Disruptivos
+![Alt text](/instructors/luis_pena.jpg)
+*Luis Peña*
 Es Ingeniero Industrial por la Universidad Nacional de Ingeniería,  es Master en Dirección de Empresas por el Programa de Alta dirección (PAD)  de la Universidad de Piura , es graduado del programa de fabricación digital -FAB ACADEMY- del Fab Foundation.
 
 Es el Director de la Escuela de Ingeniería de la Universidad Peruana Cayetano Heredia (UPCH), ha dirigido la carrera de ingeniería industrial en la Universidad de Ingeniería y Tecnología, ha sido Gerente de Producción de SOUTHCONE y Controller de IVOPE en Santa Fe Argentina.
