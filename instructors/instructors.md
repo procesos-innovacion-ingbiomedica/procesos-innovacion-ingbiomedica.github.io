@@ -10,7 +10,7 @@ layout: instructor
 ### Coordinador General - Taller de Proyecto 01
 ![Alt text](/instructors/emir_vela.png){:height="140px" width="140px"}
 
-*Emir Vela, PhD | emir.vela@upch.pe**
+*Emir Vela, PhD | emir.vela@upch.pe*
 ><div style="text-align: justify">El Dr. Vela recibió el grado de Bachiller y Maestría en ciencias en Microingeniería con énfasis en Micro y Nanosistemas de la Ecole Polytechnique Fédérale de Lausanne - EPFL, Suiza, en 2003 y 2005 respectivamente. Obtuvo el grado de Doctor en Mecánica-Robótica con mención muy honorable de la Université Pierre et Marie Curie, Paris, France en 2010. Actualmente es profesor en la Escuela Profesional de Ingeniería dentro del programa de Ingeniería Biomédica de la Universidad Peruana Cayetano Heredia - UPCH, Lima; lidera el laboratorio de Micro&BioRobótica.   Sus campos de interés en investigación comprenden microrobótica, BioMecánica, BioRobótica, aplicaciones de microfluidos, diseño y fabricación de sensores y actuadores, así como control automático.</div>
 
 ### Staff de Asesores - Ingeniería
@@ -18,7 +18,7 @@ layout: instructor
 *Pierre Padilla | pierre.padilla.h@upch.pe*
 ><div style="text-align: justify">Bachiller en Ingeniería Electrónica con estudios de postgrado en Universidad Peruana Cayetano Heredia (UPCH) y University of California, Los Angeles (UCLA). Investigador Principal del Laboratorio de Desarrollo Integrado de Soluciones Tecnológicas (DIST-LAB), Investigador Asociado del Laboratorio de Biofísica de Moléculas Individuales y Asistente de Investigación en la carrera de Ingeniería Biomédica de la UPCH. Gerente Comercial de The Open Electronic Workshop, empresa peruana especializada en fabricación digital y robótica. Fundador y Director de Biomakers Lab, iniciativa peruana enfocada en el desarrollo y promoción de proyectos de biología, biotecnología y biología sintética. Uno de los autores de "The essential Biohacker’s guide: Begin your journey in the DIY-Bio world", manual para la implementación de laboratorios comunitarios. Esta guía se encuentra disponible en cuatro idiomas: Español, Inglés, Portugués y Francés.</div>
 
-*Etsel Suarez | etsel.suarez@upch.pe *
+*Etsel Suarez | etsel.suarez@upch.pe*
 ><div style="text-align: justify">Bachiller de la especialidad de Ing. Mecatrónica de la Universidad Nacional de Ingeniería. Sus áreas de interés están relacionadas al Diseño Mecatrónico orientado a la robótica blanda para el área de la Ingeniería Biomédica y Algoritmos de control, Teniendo conocimientos de Project Management enfocado al PMI lo que hace posible cumplir con mis metas propuestas. Mi campo de interés es la Biomecatrónica, en el cual deseo desarrollar proyectos para el bienestar humano y animal, investigando para lograr un diseño ergonómico del sistema en los seres vivos, especialmente con tecnología de robótica blanda. Propongo, realizo, estudio y desarrollo proyectos de innovación trabajando con estudiantes de ingeniería de la UNI, UPCH. Siendo parte actualmente del Laboratorio de Micro y Biorobótica en los Laboratorios de Investigación y Desarrollo de la Universidad Peruana Cayetano Heredia.</div>
 
 *Juan Huaroto | juan.huaroto@upch.pe*
