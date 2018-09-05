@@ -42,5 +42,5 @@ layout: instructor
 ><div style="text-align: justify">Médico con estudios de Maestría en Informática Biomédica en la Universidad Peruana Cayetano Heredia. Pertenece al equipo técnico de la Unidad de Telesalud de la Facultad de Medicina de la Universidad Nacional Mayor de San Marcos. Lidera dos proyectos; el primero es un sistema de información basado en un wearable para identificación de emergencias en gestantes; el segundo es para la geolocalización de casos de Arbovirus y Malaria.</div>
 
 *José Proaño, MD | jose.proano@upch.pe*
-><div style="text-align: justify">Médico Inmunogo y Reumatologo UPCH. Medico Asistente Servicio de Inmuno-Reumatología Hospital Cayetano Heredia. Medico Staff Clínica Angloamericana (Servicio de Inmuno-Reumatología). Médico Investigador Clínico, Clínica San Judas Tadeo. Docente Universitario Universidad Cayetano Heredia. MBA Administración en Gerencial Internacional (CENTRUM Católica).</div>
+><div style="text-align: justify">Médico Inmunologo y Reumatologo UPCH. Medico Asistente Servicio de Inmuno-Reumatología Hospital Cayetano Heredia. Medico Staff Clínica Angloamericana (Servicio de Inmuno-Reumatología). Médico Investigador Clínico, Clínica San Judas Tadeo. Docente Universitario Universidad Cayetano Heredia. MBA Administración en Gerencial Internacional (CENTRUM Católica).</div>
 
