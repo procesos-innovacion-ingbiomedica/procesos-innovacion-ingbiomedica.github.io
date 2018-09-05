@@ -1,3 +1,6 @@
+---
+layout: instructor
+---
 ##DESAFÍOS
 
 **Diseño de un dispositivo robótico para rehabilitación del dedo pulgar en pacientes con Tendinitis de Quervain**
