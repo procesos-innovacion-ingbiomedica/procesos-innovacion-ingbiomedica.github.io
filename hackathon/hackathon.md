@@ -27,5 +27,5 @@ layout: instructor
 |:----|:------------------------------------------------------------------------|
 |07:00|Desayuno                                                                 |
 |08:00|Trabajo en equipos - Interacción con especialistas (ingenieros y médicos)|
-|09:00|Elevator Pitch: Presentaciones Estrategias, Conceptos, Concepto Final    |                                                                                           
+|09:00|Elevator Pitch: Presentaciones de Estrategias, Conceptos, Concepto Final |                                                                                           
 |12:00|Premiación                                                               |
