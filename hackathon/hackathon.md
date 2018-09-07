@@ -20,9 +20,9 @@ layout: instructor
 |21:30|Activación                                                                                                  |
 |22:30|Trabajo en Equipos                                                                                          |
 
-|Hora | Domingo 16                                                              | 
-|:----|:------------------------------------------------------------------------|
-|07:00|Desayuno                                                                 |
-|08:00|Trabajo en equipos - Interacción con especialistas (ingenieros y médicos)|
-|09:00|Elevator Pich : Presentaciones Estrategias, Conceptos, concepto final    |                                                                                           
-|12:00|Premiación                                                               |
+|Hora | Domingo 16                                                                                                 | 
+|:----|:-----------------------------------------------------------------------------------------------------------|
+|07:00|Desayuno                                                                                                    |
+|08:00|Trabajo en equipos - Interacción con especialistas (ingenieros y médicos)                                   |
+|09:00|Elevator Pich: Presentaciones Estrategias, Conceptos, concepto final                                        |                                                                                           
+|12:00|Premiación                                                                                                  |
