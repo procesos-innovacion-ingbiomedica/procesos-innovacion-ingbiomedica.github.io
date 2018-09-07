@@ -3,7 +3,7 @@ layout: instructor
 ---
 ## Hackaton CDSPD - TP1 | Programa 
 * Fecha: Sábado 15 y Domingo 16 de Setiembre del 2018
-* Lugar: Sala 1 - Complejo de Innovación Académica | Pontificia Universidad Católica del Perú (PUCP) 
+* Lugar: Sala 01, Complejo de Innovación Académica (CIA) - Pontificia Universidad Católica del Perú (PUCP) 
 
 |Hora | Sábado 15                                                               | 
 |:----|:------------------------------------------------------------------------|
