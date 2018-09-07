@@ -2,7 +2,8 @@
 layout: instructor
 ---
 ## Hackaton CDPSD - TP1 | Programa 
-### Sábado 15 y Domingo 16 de Setiembre del 2018
+Fecha: Sábado 15 y Domingo 16 de Setiembre del 2018
+Lugar: Pontificia Universidad Católica del Perú (PUCP) 
 
 |Hora | Sábado 15                                                               | 
 |:----|:------------------------------------------------------------------------|
