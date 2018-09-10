@@ -1,4 +1,5 @@
-# Página oficial de los cursos de Taller de Proyectos 01 y Cómo Desarrollar Servicios y Productos Disruptivos
+# Página oficial del curso Gerenciando el Proceso de Innovación
+
 Estos cursos introducen al estudiante en el proceso de implementación de proyectos, como al desarrollo de productos y servicios en el campo de la ingeniería biomédica a través del diseño y fabricación de dispositivos que atienden una necesidad médica.
 
 Los alumnos serán confrontados a desafíos reales del campo médico en el ámbito nacional o global, así propondrán una solución innovadora trabajando en equipo, la cual diseñarán y presentarán un prototipo funcional de baja resolución.
