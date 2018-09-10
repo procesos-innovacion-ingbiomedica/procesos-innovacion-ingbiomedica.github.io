@@ -1,4 +1,4 @@
-citheme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 markdown: kramdown
 title: Gerenciando el Proceso de Innovación
 description: Ingeniería Biomédica PUCP-UPCH
