@@ -3,7 +3,7 @@ layout: instructor
 ---
 ## Conversatorio Anemia en el Perú | Programa 
 * Fecha: Sábado 22 de Setiembre del 2018
-* Lugar: Campus La Molina Universidad Peruana Cayetano Heredia 
+* Lugar: Campus La Molina - Universidad Peruana Cayetano Heredia 
 
 |Hora | Sábado 22                                                               | 
 |:----|:------------------------------------------------------------------------|
