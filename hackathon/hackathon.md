@@ -1,7 +1,7 @@
 ---
 layout: instructor
 ---
-## Hackathon CDSPD - TP1 | Programa 
+## Conversatorio Anemia en el Perú | Programa 
 * Fecha: Sábado 22 de Setiembre del 2018
 * Lugar: Campus La Molina Universidad Peruana Cayetano Heredia 
 
