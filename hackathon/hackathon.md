@@ -11,7 +11,7 @@ layout: instructor
 |17:10|Panel de Expertos                                                        |
 |17:10|Dra. Maria Marull (Jefa de la carrera de Nutrición UPCH)                 |
 |17:30|Dra. Delia Haustein (Directora Ejecutiva ONG Prisma)                     |
-|17:50|Dr.  Mario Tavera (Ex-oficial de Salud de UNICEF en Perú)                |
+|17:50|Dr.  Mario Tavera (Consultor en programas de salud materno infantil)     |
 |18:10|Ronda de Preguntas                                                       |
 |19:00|Agradecimientos                                                          |
 
