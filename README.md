@@ -1,4 +1,4 @@
-# Página oficial del curso Gerenciando el Proceso de Innovación
+# Página oficial del curso de Proceso de Innovación en Ingenieria Biomedica
 
 Estos cursos introducen al estudiante en el proceso de implementación de proyectos, como al desarrollo de productos y servicios en el campo de la ingeniería biomédica a través del diseño y fabricación de dispositivos que atienden una necesidad médica.
 
