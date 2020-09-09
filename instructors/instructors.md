@@ -24,6 +24,16 @@ Pablo Fonseca
 ><div style="text-align: justify">Científico Computacional y docente universitario. Actualmente es jefe de la carrera de Ingeniería Informática en la Universidad Peruana Cayetano Heredia. Tiene una maestría en Ciencia de la Computación de la Universidad Estadual de Campinas (Brasil) y es Ingeniero Informático por la Pontificia Universidad Católica del Perú. Ha tenido una estancia de investigación en la Universidad de Montreal bajo la supervisión del Prof. Yoshua Bengio. Sus áreas de interés son: Inteligencia Artificial, Machine Learning y Visión Computacional.</div> 
 
 
+![Alt text](/instructors/claudia_machicado.jpg){:height="140px" width="140px"}
+
+Claudia Machicado
+*e-mail | claudia.machicado@upch.pe*
+><div style="text-align: justify">Doctora en Bioquímica y Biología Molecular y Celular por la Univ. de Zaragoza y Magister en Bioquímica por la UPCH.
+Dirige el Laboratorio de Investigación Traslacional y Biología Computacional en la UPCH. Coordinadora del Programa de Diplomado en Genómica y Epigenómica del Cáncer en la UPCH.
+Ha trabajado durante 10 años en la industria farmacéutica y biotecnológica en investigación clínica y asuntos médico-científicos. Cuenta con 16 años de experiencia como docente universitaria y 6 años como Investigadora Principal. Lidera estudios en Análisis e Integración de Big Data Ómica y Machine Learning aplicado al campo de la Biomedicina. Dirige también investigación en el Descubrimiento de fármacos contra enfermedades infecciosas. Es revisora de revistas indexadas internacionales. Revisor experto de proyectos de investigación para agencias internacionales y fondos nacionales. Es autora de múltiples ponencias en congresos y de artículos científicos en revistas indexadas.
+Otros intereses: Covid-19, biología de la conservación y evolución.</div> 
+
+
 ![Alt text](/instructors/pierre_padilla.jpg){:height="140px" width="140px"}
 
 Pierre Padilla
