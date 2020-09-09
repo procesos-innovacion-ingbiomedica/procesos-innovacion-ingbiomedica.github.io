@@ -13,6 +13,8 @@ Pablo Moreno
 ### Staff de Asesores 
 ![Alt text](/instructors/luis_pena.jpg){:height="140px" width="140px"}
 
+Luis Peña
+
 *e-mail | luis.penha@upch.pe*
 ><div style="text-align: justify">Ingeniero Industrial por la Universidad Nacional de Ingeniería, Master en Dirección de Empresas por el Programa de Alta Dirección (PAD) de la Universidad de Piura, graduado del programa de fabricación digital -FAB ACADEMY- del Fab Foundation. Es experto en optimización y simulación de procesos, diseña y fabrica impresoras 3D y cortadoras láser, se encuentra desarrollando soluciones biomédicas para la detección temprana de úlceras por presión mediante termografía y machine learning, es también Gerente general de Biotech Group y uno de los miembros fundadores de la Asociación peruana de desarrolladores de software y equipos biomédicos. Actualmente es el Director de la Escuela de Ingeniería de la Universidad Peruana Cayetano Heredia (UPCH), ha dirigido la carrera de Ingeniería Industrial en la Universidad de Ingeniería y Tecnología, ha sido Gerente de Producción de SOUTHCONE y Controller de IVOPE en Santa Fe Argentina.</div> 
 
